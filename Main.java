@@ -12,6 +12,7 @@ public class Main {
         trabajador.salario = 985;
         System.out.println("Salario: " + trabajador.salario);
 
+        
     }
 
 
